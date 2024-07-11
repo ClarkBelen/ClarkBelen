@@ -59,7 +59,7 @@
   - [Command Pattern](https://github.com/ClarkBelen/commandPattern)
   - [Observer Pattern](https://github.com/ClarkBelen/observerPattern)
  
-**Web/Application Develepments**
+**Web/Application Developments**
 - [Mini JAVA Compiler](https://github.com/ClarkBelen/MINI-JAVA-COMPILER)
 - [NEUSCHED Extension](https://github.com/ClarkBelen/NEUSCHED-Extension-Pack)
 - [E-Commerce Website](http://urban-soles.infinityfreeapp.com/?i=1)

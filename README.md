@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" height="350">
 </div>
 
 <h1 align="center">Clark Belen</h1>
@@ -38,6 +36,7 @@
 - [Understanding Cloud Computing](https://www.datacamp.com/statement-of-accomplishment/course/343d93338e59bb82720d7a14f911024df0daad04?raw=1) | Datacamp
 - [Data Analytics Essentials](https://www.credly.com/badges/0f6655a2-e39c-47b1-842e-53657e55dbab/public_url) | Cisco
 - [Intro to Data Science](https://www.credly.com/badges/ea8c29ea-3eba-4479-be39-eba936983b42/public_url) | Cisco
+- [Artificial Intelligence Fundamentals](https://www.credly.com/badges/fb63b3e6-c3d9-490b-a38d-13534cb9ec03/public_url) | Cisco
 
 # Projects/Tech Achievements
 **Dashboarding/Data Visualization**

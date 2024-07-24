@@ -43,6 +43,7 @@
 - [Snack Report](https://app.powerbi.com/view?r=eyJrIjoiNzBjZjUyYzItMDQ1Zi00MmU0LThhMmEtNDNjYTY4ZTA1MjczIiwidCI6IjViM2ExYjdlLThiMjctNDg2NS1iNGNhLThmNmRkM2VhNmI4NiIsImMiOjEwfQ%3D%3D) | Microsoft Power BI
 - [Soda Report 2022](https://app.powerbi.com/view?r=eyJrIjoiMWYxZDU2ZWEtNDIxMy00NDkwLTgwZGItZWEyY2JmMWU4ZThlIiwidCI6IjIyM2U0YWM4LTM3YjYtNGQ2Yi1hMjViLWJjNDBiZGEyMjU5NiIsImMiOjEwfQ%3D%3D) | Microsoft Power BI
 - [Course Tracker](https://app.powerbi.com/view?r=eyJrIjoiYmE2NjFjOGEtMTU4My00NWExLTkxMWUtNDllYjE2NWQ4OGQ0IiwidCI6IjViM2ExYjdlLThiMjctNDg2NS1iNGNhLThmNmRkM2VhNmI4NiIsImMiOjEwfQ%3D%3D&pageName=1ed59ea7bd9a0cc55216) | Microsoft Power BI
+- [Awesome Chocolate Dashboard Report](https://public.tableau.com/views/AwesomeChocolateDashboardReport_17155947567460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau
 
 **Software Engineering Design Patterns using JAVA**
 - **Creational Design Patterns**

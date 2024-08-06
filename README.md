@@ -15,7 +15,7 @@
 
 # Education
 <p align="left"> 
-  <b>Bachelor of Science in Information Technology | New Era University</b><br>
+  <b>Bachelor of Science in Computer Science | New Era University</b><br>
   2021 - Present<br>
 </p>
 <p align="left"> 

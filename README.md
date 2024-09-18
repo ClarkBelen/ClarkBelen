@@ -39,11 +39,12 @@
 - [Artificial Intelligence Fundamentals](https://www.credly.com/badges/fb63b3e6-c3d9-490b-a38d-13534cb9ec03/public_url) | IBM SkillsBuild
 
 # Projects/Tech Achievements
-**Dashboarding/Data Visualization**
-- [Snack Report](https://app.powerbi.com/view?r=eyJrIjoiNzBjZjUyYzItMDQ1Zi00MmU0LThhMmEtNDNjYTY4ZTA1MjczIiwidCI6IjViM2ExYjdlLThiMjctNDg2NS1iNGNhLThmNmRkM2VhNmI4NiIsImMiOjEwfQ%3D%3D) | Microsoft Power BI
-- [Soda Report 2022](https://app.powerbi.com/view?r=eyJrIjoiMWYxZDU2ZWEtNDIxMy00NDkwLTgwZGItZWEyY2JmMWU4ZThlIiwidCI6IjIyM2U0YWM4LTM3YjYtNGQ2Yi1hMjViLWJjNDBiZGEyMjU5NiIsImMiOjEwfQ%3D%3D) | Microsoft Power BI
-- [Course Tracker](https://app.powerbi.com/view?r=eyJrIjoiYmE2NjFjOGEtMTU4My00NWExLTkxMWUtNDllYjE2NWQ4OGQ0IiwidCI6IjViM2ExYjdlLThiMjctNDg2NS1iNGNhLThmNmRkM2VhNmI4NiIsImMiOjEwfQ%3D%3D&pageName=1ed59ea7bd9a0cc55216) | Microsoft Power BI
-- [Awesome Chocolate Dashboard Report](https://public.tableau.com/views/AwesomeChocolateDashboardReport_17155947567460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau
+**Web/Application Developments**
+- [Mini JAVA Compiler](https://github.com/ClarkBelen/MINI-JAVA-COMPILER)
+- [NEUSCHED Extension](https://github.com/ClarkBelen/NEUSCHED-Extension-Pack)
+- [E-Commerce Website](http://urban-soles.infinityfreeapp.com/?i=1)
+- [House Properties Website (PHP CRUD)](https://github.com/ClarkBelen/PHP-CRUD_House-Properties/blob/main/README.md)
+- [Dynamic Portfolio](http://clarkbelen-portfolio.great-site.net/)
 
 **Software Engineering Design Patterns using JAVA**
 - **Creational Design Patterns**
@@ -58,11 +59,17 @@
 - **Behavioral Design Patterns**
   - [Command Pattern](https://github.com/ClarkBelen/commandPattern)
   - [Observer Pattern](https://github.com/ClarkBelen/observerPattern)
- 
-**Web/Application Developments**
-- [Mini JAVA Compiler](https://github.com/ClarkBelen/MINI-JAVA-COMPILER)
-- [NEUSCHED Extension](https://github.com/ClarkBelen/NEUSCHED-Extension-Pack)
-- [E-Commerce Website](http://urban-soles.infinityfreeapp.com/?i=1)
+  - [Strategy Pattern](https://github.com/ClarkBelen/strategyPattern)
+  - [State Pattern](https://github.com/ClarkBelen/statePattern)
+  - [Visitor Pattern](https://github.com/ClarkBelen/visitorPattern)
+
+- **[SOLID Design Principles](https://github.com/ClarkBelen/SOLID-with-Design-Pattern)**
+
+ **Dashboarding/Data Visualization**
+- [Snack Report](https://app.powerbi.com/view?r=eyJrIjoiNzBjZjUyYzItMDQ1Zi00MmU0LThhMmEtNDNjYTY4ZTA1MjczIiwidCI6IjViM2ExYjdlLThiMjctNDg2NS1iNGNhLThmNmRkM2VhNmI4NiIsImMiOjEwfQ%3D%3D) | Microsoft Power BI
+- [Soda Report 2022](https://app.powerbi.com/view?r=eyJrIjoiMWYxZDU2ZWEtNDIxMy00NDkwLTgwZGItZWEyY2JmMWU4ZThlIiwidCI6IjIyM2U0YWM4LTM3YjYtNGQ2Yi1hMjViLWJjNDBiZGEyMjU5NiIsImMiOjEwfQ%3D%3D) | Microsoft Power BI
+- [Course Tracker](https://app.powerbi.com/view?r=eyJrIjoiYmE2NjFjOGEtMTU4My00NWExLTkxMWUtNDllYjE2NWQ4OGQ0IiwidCI6IjViM2ExYjdlLThiMjctNDg2NS1iNGNhLThmNmRkM2VhNmI4NiIsImMiOjEwfQ%3D%3D&pageName=1ed59ea7bd9a0cc55216) | Microsoft Power BI
+- [Awesome Chocolate Dashboard Report](https://public.tableau.com/views/AwesomeChocolateDashboardReport_17155947567460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau
 
 # Skill Set
   <table>

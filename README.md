@@ -16,7 +16,7 @@
 # Education
 <p align="left"> 
   <b>Bachelor of Science in Computer Science | New Era University</b><br>
-  2021 - Present<br>
+  2021 - 2025<br>
 </p>
 <p align="left"> 
   <b>Science, Technology, Engineering, and Mathemetics Strand | Dr. Carlos S. Lanting College</b><br>

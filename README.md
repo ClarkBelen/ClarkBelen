@@ -50,6 +50,7 @@
 - **Creational Design Patterns**
   - [Factory Pattern](https://github.com/ClarkBelen/factoryPattern)
   - [Singleton Pattern](https://github.com/ClarkBelen/singletonPattern)
+  - [Builder Pattern](https://github.com/ClarkBelen/builderPattern)
    
 - **Structural Design Patterns**
   - [Adapter Pattern](https://github.com/ClarkBelen/adapterPattern)

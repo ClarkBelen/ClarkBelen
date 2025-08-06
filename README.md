@@ -44,9 +44,9 @@
 **Web/Application Developments**
 - [Mini JAVA Compiler](https://github.com/ClarkBelen/MINI-JAVA-COMPILER)
 - [NEUSCHED Extension](https://github.com/ClarkBelen/NEUSCHED-Extension-Pack)
-- [E-Commerce Website](http://urban-soles.infinityfreeapp.com/?i=1)
+- [E-Commerce Website](https://github.com/ClarkBelen/ECommerce-Website)
 - [House Properties Website (PHP CRUD)](https://github.com/ClarkBelen/PHP-CRUD_House-Properties/blob/main/README.md)
-- [Dynamic Portfolio](http://clarkbelen-portfolio.great-site.net/)
+- [Dynamic Portfolio](https://github.com/ClarkBelen/Dynamic-Portfolio)
 
 **Software Engineering Design Patterns using JAVA**
 - **Creational Design Patterns**
